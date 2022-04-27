@@ -1,0 +1,14 @@
+
+Design a backend service to schedule meetings.
+
+Note: Meeting is 1 to 1 video discussion API service between organizer and participant.
+
+Code Evaluation:
+1) Clean Code.
+2) test Coverage.
+3) Code Reuse.
+
+// will there be one 2 participants ? -- > yes
+// should I check for conflicts ? --> yes
+// how does the input looks like ? --> starttime, endtime, organiser, participant -- basic things
+// output -- true/false ? -- some message
